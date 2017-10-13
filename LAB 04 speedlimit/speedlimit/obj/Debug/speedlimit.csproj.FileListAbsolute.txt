@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\speedlimit\speedlimit\bin\Debug\speedlimit.exe.config
+C:\Users\denni\Documents\IT 1050\speedlimit\speedlimit\bin\Debug\speedlimit.exe
+C:\Users\denni\Documents\IT 1050\speedlimit\speedlimit\bin\Debug\speedlimit.pdb
+C:\Users\denni\Documents\IT 1050\speedlimit\speedlimit\obj\Debug\speedlimit.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\speedlimit\speedlimit\obj\Debug\speedlimit.exe
+C:\Users\denni\Documents\IT 1050\speedlimit\speedlimit\obj\Debug\speedlimit.pdb
