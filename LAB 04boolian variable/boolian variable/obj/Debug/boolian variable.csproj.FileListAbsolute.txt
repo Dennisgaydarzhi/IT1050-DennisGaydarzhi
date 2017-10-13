@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\boolian variable\boolian variable\bin\Debug\boolian variable.exe.config
+C:\Users\denni\Documents\IT 1050\boolian variable\boolian variable\bin\Debug\boolian variable.exe
+C:\Users\denni\Documents\IT 1050\boolian variable\boolian variable\bin\Debug\boolian variable.pdb
+C:\Users\denni\Documents\IT 1050\boolian variable\boolian variable\obj\Debug\boolian variable.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\boolian variable\boolian variable\obj\Debug\boolian variable.exe
+C:\Users\denni\Documents\IT 1050\boolian variable\boolian variable\obj\Debug\boolian variable.pdb
