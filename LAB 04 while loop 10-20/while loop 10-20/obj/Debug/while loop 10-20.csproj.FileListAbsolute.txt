@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\while loop 10-20\while loop 10-20\bin\Debug\while loop 10-20.exe.config
+C:\Users\denni\Documents\IT 1050\while loop 10-20\while loop 10-20\bin\Debug\while loop 10-20.exe
+C:\Users\denni\Documents\IT 1050\while loop 10-20\while loop 10-20\bin\Debug\while loop 10-20.pdb
+C:\Users\denni\Documents\IT 1050\while loop 10-20\while loop 10-20\obj\Debug\while loop 10-20.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\while loop 10-20\while loop 10-20\obj\Debug\while loop 10-20.exe
+C:\Users\denni\Documents\IT 1050\while loop 10-20\while loop 10-20\obj\Debug\while loop 10-20.pdb
