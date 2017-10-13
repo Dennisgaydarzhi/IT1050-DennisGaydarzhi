@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\F to C\F to C\bin\Debug\F to C.exe.config
+C:\Users\denni\Documents\IT 1050\F to C\F to C\bin\Debug\F to C.exe
+C:\Users\denni\Documents\IT 1050\F to C\F to C\bin\Debug\F to C.pdb
+C:\Users\denni\Documents\IT 1050\F to C\F to C\obj\Debug\F to C.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\F to C\F to C\obj\Debug\F to C.exe
+C:\Users\denni\Documents\IT 1050\F to C\F to C\obj\Debug\F to C.pdb
