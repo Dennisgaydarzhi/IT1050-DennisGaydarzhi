@@ -1,0 +1,5 @@
+C:\Users\denni\Documents\IT 1050\while loop --\while loop --\bin\Debug\while loop --.exe.config
+C:\Users\denni\Documents\IT 1050\while loop --\while loop --\bin\Debug\while loop --.exe
+C:\Users\denni\Documents\IT 1050\while loop --\while loop --\bin\Debug\while loop --.pdb
+C:\Users\denni\Documents\IT 1050\while loop --\while loop --\obj\Debug\while loop --.exe
+C:\Users\denni\Documents\IT 1050\while loop --\while loop --\obj\Debug\while loop --.pdb
