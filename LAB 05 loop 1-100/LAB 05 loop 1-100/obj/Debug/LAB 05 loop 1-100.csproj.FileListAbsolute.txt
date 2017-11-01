@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\LAB 05 loop 1-100\LAB 05 loop 1-100\bin\Debug\LAB 05 loop 1-100.exe.config
+C:\Users\denni\Documents\IT 1050\LAB 05 loop 1-100\LAB 05 loop 1-100\bin\Debug\LAB 05 loop 1-100.exe
+C:\Users\denni\Documents\IT 1050\LAB 05 loop 1-100\LAB 05 loop 1-100\bin\Debug\LAB 05 loop 1-100.pdb
+C:\Users\denni\Documents\IT 1050\LAB 05 loop 1-100\LAB 05 loop 1-100\obj\Debug\LAB 05 loop 1-100.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\LAB 05 loop 1-100\LAB 05 loop 1-100\obj\Debug\LAB 05 loop 1-100.exe
+C:\Users\denni\Documents\IT 1050\LAB 05 loop 1-100\LAB 05 loop 1-100\obj\Debug\LAB 05 loop 1-100.pdb
