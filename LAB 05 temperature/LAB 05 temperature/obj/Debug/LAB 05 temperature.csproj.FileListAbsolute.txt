@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\LAB 05 temperature\LAB 05 temperature\bin\Debug\LAB 05 temperature.exe.config
+C:\Users\denni\Documents\IT 1050\LAB 05 temperature\LAB 05 temperature\bin\Debug\LAB 05 temperature.exe
+C:\Users\denni\Documents\IT 1050\LAB 05 temperature\LAB 05 temperature\bin\Debug\LAB 05 temperature.pdb
+C:\Users\denni\Documents\IT 1050\LAB 05 temperature\LAB 05 temperature\obj\Debug\LAB 05 temperature.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\LAB 05 temperature\LAB 05 temperature\obj\Debug\LAB 05 temperature.exe
+C:\Users\denni\Documents\IT 1050\LAB 05 temperature\LAB 05 temperature\obj\Debug\LAB 05 temperature.pdb
