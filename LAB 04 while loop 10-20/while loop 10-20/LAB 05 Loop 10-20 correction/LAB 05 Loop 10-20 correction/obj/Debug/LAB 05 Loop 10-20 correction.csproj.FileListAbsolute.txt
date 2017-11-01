@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\LAB 05 Loop 10-20 correction\LAB 05 Loop 10-20 correction\obj\Debug\LAB 05 Loop 10-20 correction.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\LAB 05 Loop 10-20 correction\LAB 05 Loop 10-20 correction\bin\Debug\LAB 05 Loop 10-20 correction.exe.config
+C:\Users\denni\Documents\IT 1050\LAB 05 Loop 10-20 correction\LAB 05 Loop 10-20 correction\bin\Debug\LAB 05 Loop 10-20 correction.exe
+C:\Users\denni\Documents\IT 1050\LAB 05 Loop 10-20 correction\LAB 05 Loop 10-20 correction\bin\Debug\LAB 05 Loop 10-20 correction.pdb
+C:\Users\denni\Documents\IT 1050\LAB 05 Loop 10-20 correction\LAB 05 Loop 10-20 correction\obj\Debug\LAB 05 Loop 10-20 correction.exe
+C:\Users\denni\Documents\IT 1050\LAB 05 Loop 10-20 correction\LAB 05 Loop 10-20 correction\obj\Debug\LAB 05 Loop 10-20 correction.pdb
