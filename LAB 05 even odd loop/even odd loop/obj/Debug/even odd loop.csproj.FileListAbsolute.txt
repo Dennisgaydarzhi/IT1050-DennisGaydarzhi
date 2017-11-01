@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\IT1050-DennisGaydarzhi\even odd loop\even odd loop\bin\Debug\even odd loop.exe.config
+C:\Users\denni\Documents\IT 1050\IT1050-DennisGaydarzhi\even odd loop\even odd loop\bin\Debug\even odd loop.exe
+C:\Users\denni\Documents\IT 1050\IT1050-DennisGaydarzhi\even odd loop\even odd loop\bin\Debug\even odd loop.pdb
+C:\Users\denni\Documents\IT 1050\IT1050-DennisGaydarzhi\even odd loop\even odd loop\obj\Debug\even odd loop.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\IT1050-DennisGaydarzhi\even odd loop\even odd loop\obj\Debug\even odd loop.exe
+C:\Users\denni\Documents\IT 1050\IT1050-DennisGaydarzhi\even odd loop\even odd loop\obj\Debug\even odd loop.pdb
