@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\LAB 06 Leap Year While Loop\LAB 06 Leap Year While Loop\bin\Debug\LAB 06 Leap Year While Loop.exe.config
+C:\Users\denni\Documents\IT 1050\LAB 06 Leap Year While Loop\LAB 06 Leap Year While Loop\bin\Debug\LAB 06 Leap Year While Loop.exe
+C:\Users\denni\Documents\IT 1050\LAB 06 Leap Year While Loop\LAB 06 Leap Year While Loop\bin\Debug\LAB 06 Leap Year While Loop.pdb
+C:\Users\denni\Documents\IT 1050\LAB 06 Leap Year While Loop\LAB 06 Leap Year While Loop\obj\Debug\LAB 06 Leap Year While Loop.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\LAB 06 Leap Year While Loop\LAB 06 Leap Year While Loop\obj\Debug\LAB 06 Leap Year While Loop.exe
+C:\Users\denni\Documents\IT 1050\LAB 06 Leap Year While Loop\LAB 06 Leap Year While Loop\obj\Debug\LAB 06 Leap Year While Loop.pdb
