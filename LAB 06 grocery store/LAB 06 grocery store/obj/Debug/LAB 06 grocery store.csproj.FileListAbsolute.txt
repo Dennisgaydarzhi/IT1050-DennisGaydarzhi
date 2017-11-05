@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\LAB 06 grocery store\LAB 06 grocery store\obj\Debug\LAB 06 grocery store.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\LAB 06 grocery store\LAB 06 grocery store\bin\Debug\LAB 06 grocery store.exe.config
+C:\Users\denni\Documents\IT 1050\LAB 06 grocery store\LAB 06 grocery store\bin\Debug\LAB 06 grocery store.exe
+C:\Users\denni\Documents\IT 1050\LAB 06 grocery store\LAB 06 grocery store\bin\Debug\LAB 06 grocery store.pdb
+C:\Users\denni\Documents\IT 1050\LAB 06 grocery store\LAB 06 grocery store\obj\Debug\LAB 06 grocery store.exe
+C:\Users\denni\Documents\IT 1050\LAB 06 grocery store\LAB 06 grocery store\obj\Debug\LAB 06 grocery store.pdb
