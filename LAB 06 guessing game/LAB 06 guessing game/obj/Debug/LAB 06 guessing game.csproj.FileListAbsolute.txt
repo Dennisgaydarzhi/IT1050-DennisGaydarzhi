@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\LAB 06 guessing game\LAB 06 guessing game\bin\Debug\LAB 06 guessing game.exe.config
+C:\Users\denni\Documents\IT 1050\LAB 06 guessing game\LAB 06 guessing game\bin\Debug\LAB 06 guessing game.exe
+C:\Users\denni\Documents\IT 1050\LAB 06 guessing game\LAB 06 guessing game\bin\Debug\LAB 06 guessing game.pdb
+C:\Users\denni\Documents\IT 1050\LAB 06 guessing game\LAB 06 guessing game\obj\Debug\LAB 06 guessing game.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\LAB 06 guessing game\LAB 06 guessing game\obj\Debug\LAB 06 guessing game.exe
+C:\Users\denni\Documents\IT 1050\LAB 06 guessing game\LAB 06 guessing game\obj\Debug\LAB 06 guessing game.pdb
