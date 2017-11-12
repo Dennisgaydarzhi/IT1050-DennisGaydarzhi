@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\Test 1 infinite loop\Test 1 infinite loop\bin\Debug\Test 1 infinite loop.exe.config
+C:\Users\denni\Documents\IT 1050\Test 1 infinite loop\Test 1 infinite loop\bin\Debug\Test 1 infinite loop.exe
+C:\Users\denni\Documents\IT 1050\Test 1 infinite loop\Test 1 infinite loop\bin\Debug\Test 1 infinite loop.pdb
+C:\Users\denni\Documents\IT 1050\Test 1 infinite loop\Test 1 infinite loop\obj\Debug\Test 1 infinite loop.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\Test 1 infinite loop\Test 1 infinite loop\obj\Debug\Test 1 infinite loop.exe
+C:\Users\denni\Documents\IT 1050\Test 1 infinite loop\Test 1 infinite loop\obj\Debug\Test 1 infinite loop.pdb
