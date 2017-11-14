@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\Test 1 6 boolean variables\Test 1 6 boolean variables\bin\Debug\Test 1 6 boolean variables.exe.config
+C:\Users\denni\Documents\IT 1050\Test 1 6 boolean variables\Test 1 6 boolean variables\bin\Debug\Test 1 6 boolean variables.exe
+C:\Users\denni\Documents\IT 1050\Test 1 6 boolean variables\Test 1 6 boolean variables\bin\Debug\Test 1 6 boolean variables.pdb
+C:\Users\denni\Documents\IT 1050\Test 1 6 boolean variables\Test 1 6 boolean variables\obj\Debug\Test 1 6 boolean variables.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\Test 1 6 boolean variables\Test 1 6 boolean variables\obj\Debug\Test 1 6 boolean variables.exe
+C:\Users\denni\Documents\IT 1050\Test 1 6 boolean variables\Test 1 6 boolean variables\obj\Debug\Test 1 6 boolean variables.pdb
