@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\Test 1 2-128 loop\Test 1 2-128 loop\bin\Debug\Test 1 2-128 loop.exe.config
+C:\Users\denni\Documents\IT 1050\Test 1 2-128 loop\Test 1 2-128 loop\bin\Debug\Test 1 2-128 loop.exe
+C:\Users\denni\Documents\IT 1050\Test 1 2-128 loop\Test 1 2-128 loop\bin\Debug\Test 1 2-128 loop.pdb
+C:\Users\denni\Documents\IT 1050\Test 1 2-128 loop\Test 1 2-128 loop\obj\Debug\Test 1 2-128 loop.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\Test 1 2-128 loop\Test 1 2-128 loop\obj\Debug\Test 1 2-128 loop.exe
+C:\Users\denni\Documents\IT 1050\Test 1 2-128 loop\Test 1 2-128 loop\obj\Debug\Test 1 2-128 loop.pdb
