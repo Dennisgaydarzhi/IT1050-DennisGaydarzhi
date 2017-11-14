@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\Test1 1-21 odds\Test1 1-21 odds\bin\Debug\Test1 1-21 odds.exe.config
+C:\Users\denni\Documents\IT 1050\Test1 1-21 odds\Test1 1-21 odds\bin\Debug\Test1 1-21 odds.exe
+C:\Users\denni\Documents\IT 1050\Test1 1-21 odds\Test1 1-21 odds\bin\Debug\Test1 1-21 odds.pdb
+C:\Users\denni\Documents\IT 1050\Test1 1-21 odds\Test1 1-21 odds\obj\Debug\Test1 1-21 odds.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\Test1 1-21 odds\Test1 1-21 odds\obj\Debug\Test1 1-21 odds.exe
+C:\Users\denni\Documents\IT 1050\Test1 1-21 odds\Test1 1-21 odds\obj\Debug\Test1 1-21 odds.pdb
