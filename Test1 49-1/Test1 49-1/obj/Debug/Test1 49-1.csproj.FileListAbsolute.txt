@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\Test1 49-1\Test1 49-1\bin\Debug\Test1 49-1.exe.config
+C:\Users\denni\Documents\IT 1050\Test1 49-1\Test1 49-1\bin\Debug\Test1 49-1.exe
+C:\Users\denni\Documents\IT 1050\Test1 49-1\Test1 49-1\bin\Debug\Test1 49-1.pdb
+C:\Users\denni\Documents\IT 1050\Test1 49-1\Test1 49-1\obj\Debug\Test1 49-1.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\Test1 49-1\Test1 49-1\obj\Debug\Test1 49-1.exe
+C:\Users\denni\Documents\IT 1050\Test1 49-1\Test1 49-1\obj\Debug\Test1 49-1.pdb
