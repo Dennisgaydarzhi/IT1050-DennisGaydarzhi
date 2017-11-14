@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\Test 1 reformed while loop\Test 1 reformed while loop\bin\Debug\Test 1 reformed while loop.exe.config
+C:\Users\denni\Documents\IT 1050\Test 1 reformed while loop\Test 1 reformed while loop\bin\Debug\Test 1 reformed while loop.exe
+C:\Users\denni\Documents\IT 1050\Test 1 reformed while loop\Test 1 reformed while loop\bin\Debug\Test 1 reformed while loop.pdb
+C:\Users\denni\Documents\IT 1050\Test 1 reformed while loop\Test 1 reformed while loop\obj\Debug\Test 1 reformed while loop.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\Test 1 reformed while loop\Test 1 reformed while loop\obj\Debug\Test 1 reformed while loop.exe
+C:\Users\denni\Documents\IT 1050\Test 1 reformed while loop\Test 1 reformed while loop\obj\Debug\Test 1 reformed while loop.pdb
