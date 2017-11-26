@@ -1,0 +1,6 @@
+c:\users\denni\documents\visual studio 2017\Projects\LAB 08 2\LAB 08 2\bin\Debug\LAB 08 2.exe.config
+c:\users\denni\documents\visual studio 2017\Projects\LAB 08 2\LAB 08 2\bin\Debug\LAB 08 2.exe
+c:\users\denni\documents\visual studio 2017\Projects\LAB 08 2\LAB 08 2\bin\Debug\LAB 08 2.pdb
+c:\users\denni\documents\visual studio 2017\Projects\LAB 08 2\LAB 08 2\obj\Debug\LAB 08 2.csprojResolveAssemblyReference.cache
+c:\users\denni\documents\visual studio 2017\Projects\LAB 08 2\LAB 08 2\obj\Debug\LAB 08 2.exe
+c:\users\denni\documents\visual studio 2017\Projects\LAB 08 2\LAB 08 2\obj\Debug\LAB 08 2.pdb
