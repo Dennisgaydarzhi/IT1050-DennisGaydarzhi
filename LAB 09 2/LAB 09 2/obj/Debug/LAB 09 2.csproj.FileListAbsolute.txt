@@ -1,0 +1,6 @@
+C:\Users\denni\Documents\IT 1050\LAB 09 2\LAB 09 2\bin\Debug\LAB 09 2.exe.config
+C:\Users\denni\Documents\IT 1050\LAB 09 2\LAB 09 2\bin\Debug\LAB 09 2.exe
+C:\Users\denni\Documents\IT 1050\LAB 09 2\LAB 09 2\bin\Debug\LAB 09 2.pdb
+C:\Users\denni\Documents\IT 1050\LAB 09 2\LAB 09 2\obj\Debug\LAB 09 2.csprojResolveAssemblyReference.cache
+C:\Users\denni\Documents\IT 1050\LAB 09 2\LAB 09 2\obj\Debug\LAB 09 2.exe
+C:\Users\denni\Documents\IT 1050\LAB 09 2\LAB 09 2\obj\Debug\LAB 09 2.pdb
